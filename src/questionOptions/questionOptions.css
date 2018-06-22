@@ -1,0 +1,27 @@
+
+.options{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0px;
+    line-height: 100px;
+}
+
+.option{
+    width: 49%;
+    height: 100px;
+    color: white;
+    text-align: center;
+    vertical-align: auto;
+    margin: 0px 0px 10px 3px;
+    font-size: 25px;
+}
+.purple{
+    background: purple;
+}
+.green{
+    background: green;
+}
+.red{
+    background: red;
+}
